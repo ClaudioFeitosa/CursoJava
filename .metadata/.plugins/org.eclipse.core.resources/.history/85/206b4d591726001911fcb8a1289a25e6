@@ -1,0 +1,17 @@
+package com.teste.teste.ex01;
+
+import.java.util.Scanner;
+
+public class ex12 {
+
+	public static void main(String[] args) {
+		Scanner num = new Scanner(System.in);
+		
+		Systen.out.print("Digite o primeiro numero: ")
+		
+		
+				
+
+	}
+
+}

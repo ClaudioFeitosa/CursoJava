@@ -1,0 +1,15 @@
+package com.teste.teste.ex01;
+
+public class Ex02 {
+	int valor1 = 74;
+	int valor2 = 36;
+	int result = 0;
+	
+	public void main(String[] args) {
+		result = valor1 + valor2;
+		
+		System.out.println(result);
+	}
+			
+
+}

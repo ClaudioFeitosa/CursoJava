@@ -1,0 +1,21 @@
+package Exercicios;
+
+public class Pessoa2 {
+	
+	int i =2;
+	String pessoa_nome[] = new String[2];
+	
+	public Pessoa2(String nome) {
+		for(int i=0; i <pessoa_nome.length; i++) {
+			this.pessoa_nome[i]= nome;
+		}
+	}
+	
+	void imprime() {
+				
+		for(int i=0; i <pessoa_nome.length; i++) {
+			System.out.println("nome: " + pessoa_nome[i-1]);
+		}
+	}
+	
+}	

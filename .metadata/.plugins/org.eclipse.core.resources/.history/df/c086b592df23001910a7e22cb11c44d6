@@ -1,0 +1,16 @@
+package com.teste.teste.ex01;
+
+public class ex05 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int firstNumber = 0;
+		int secundNumber =0;
+		
+		input firstNumer =25;
+		
+				
+
+	}
+
+}
