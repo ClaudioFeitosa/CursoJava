@@ -1259,3 +1259,196 @@
 2019-02-19 10:53:07,540 [Worker-1421: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
 2019-02-19 10:53:07,540 [Worker-1421: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-02-19 10:53:07,540 [Worker-1421: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 18:16:12,672 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-02-21 18:55:28,112 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-02-21 19:14:19,748 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-02-21 19:20:02,296 [Worker-7: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:20:02,296 [Worker-7: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 19:20:02,298 [Worker-7: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:20:02,298 [Worker-7: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 19:20:32,804 [Worker-9: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:20:32,805 [Worker-9: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 19:20:32,806 [Worker-9: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:20:32,806 [Worker-9: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 19:22:25,481 [Worker-9: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:22:25,481 [Worker-9: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 19:22:25,481 [Worker-9: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:22:25,482 [Worker-9: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 19:28:26,775 [Worker-1: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:28:26,775 [Worker-1: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 19:28:26,776 [Worker-1: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:28:26,776 [Worker-1: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 19:40:40,610 [Worker-21: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:40:40,610 [Worker-21: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 19:40:40,611 [Worker-21: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:40:40,611 [Worker-21: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 19:42:08,384 [Worker-23: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:42:08,385 [Worker-23: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 19:42:08,386 [Worker-23: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:42:08,386 [Worker-23: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 19:44:11,785 [Worker-25: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:44:11,786 [Worker-25: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 19:44:11,786 [Worker-25: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:44:11,787 [Worker-25: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 19:44:39,873 [Worker-21: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:44:39,873 [Worker-21: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 19:44:39,875 [Worker-21: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:44:39,875 [Worker-21: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 19:45:24,800 [Worker-28: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:45:24,801 [Worker-28: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 19:45:24,802 [Worker-28: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:45:24,802 [Worker-28: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 19:46:16,221 [Worker-26: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:46:16,221 [Worker-26: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 19:46:16,222 [Worker-26: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:46:16,223 [Worker-26: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 19:47:03,756 [Worker-29: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:47:03,756 [Worker-29: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 19:47:03,757 [Worker-29: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:47:03,757 [Worker-29: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 19:49:00,141 [Worker-5: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:49:00,142 [Worker-5: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 19:49:00,143 [Worker-5: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:49:00,143 [Worker-5: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 19:50:42,886 [Worker-26: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:50:42,886 [Worker-26: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 19:50:42,887 [Worker-26: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:50:42,887 [Worker-26: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 19:54:03,471 [Worker-26: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:54:03,471 [Worker-26: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 19:54:03,472 [Worker-26: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:54:03,472 [Worker-26: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 19:55:02,490 [Worker-29: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:55:02,490 [Worker-29: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 19:55:02,491 [Worker-29: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:55:02,491 [Worker-29: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 19:55:41,043 [Worker-23: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:55:41,043 [Worker-23: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 19:55:41,044 [Worker-23: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:55:41,045 [Worker-23: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 19:56:28,763 [Worker-25: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:56:28,763 [Worker-25: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 19:56:28,763 [Worker-25: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:56:28,764 [Worker-25: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 19:56:58,184 [Worker-23: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:56:58,185 [Worker-23: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 19:56:58,185 [Worker-23: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:56:58,185 [Worker-23: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 19:57:22,469 [Worker-11: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:57:22,469 [Worker-11: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 19:57:22,470 [Worker-11: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:57:22,470 [Worker-11: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 19:57:54,125 [Worker-29: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:57:54,125 [Worker-29: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 19:57:54,126 [Worker-29: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 19:57:54,126 [Worker-29: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:00:30,931 [Worker-23: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:00:30,932 [Worker-23: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:00:30,932 [Worker-23: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:00:30,933 [Worker-23: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:02:05,627 [Worker-33: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:02:05,627 [Worker-33: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:02:05,628 [Worker-33: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:02:05,628 [Worker-33: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:03:05,819 [Worker-33: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:03:05,820 [Worker-33: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:03:05,820 [Worker-33: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:03:05,820 [Worker-33: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:04:17,294 [Worker-39: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:04:17,294 [Worker-39: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:04:17,295 [Worker-39: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:04:17,295 [Worker-39: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:05:21,663 [Worker-23: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:05:21,664 [Worker-23: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:05:21,664 [Worker-23: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:05:21,665 [Worker-23: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:06:51,550 [Worker-11: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:06:51,550 [Worker-11: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:06:51,551 [Worker-11: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:06:51,551 [Worker-11: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:08:23,341 [Worker-36: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:08:23,341 [Worker-36: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:08:23,341 [Worker-36: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:08:23,342 [Worker-36: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:15:10,495 [Worker-26: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:15:10,495 [Worker-26: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:15:10,496 [Worker-26: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:15:10,496 [Worker-26: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:15:26,163 [Worker-42: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:15:26,164 [Worker-42: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:15:26,164 [Worker-42: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:15:26,164 [Worker-42: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:18:02,575 [Worker-42: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:18:02,575 [Worker-42: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:18:02,576 [Worker-42: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:18:02,576 [Worker-42: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:21:41,056 [Worker-44: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:21:41,057 [Worker-44: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:21:41,058 [Worker-44: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:21:41,058 [Worker-44: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:22:18,923 [Worker-54: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:22:18,924 [Worker-54: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:22:18,925 [Worker-54: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:22:18,925 [Worker-54: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:23:57,852 [Worker-55: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:23:57,852 [Worker-55: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:23:57,852 [Worker-55: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:23:57,852 [Worker-55: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:25:01,613 [Worker-56: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:25:01,614 [Worker-56: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:25:01,614 [Worker-56: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:25:01,614 [Worker-56: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:27:12,028 [Worker-54: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:27:12,029 [Worker-54: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:27:12,029 [Worker-54: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:27:12,029 [Worker-54: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:28:10,680 [Worker-44: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:28:10,681 [Worker-44: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:28:10,681 [Worker-44: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:28:10,681 [Worker-44: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:31:41,831 [Worker-58: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:31:41,831 [Worker-58: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:31:41,832 [Worker-58: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:31:41,832 [Worker-58: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:32:24,752 [Worker-64: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:32:24,752 [Worker-64: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:32:24,753 [Worker-64: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:32:24,753 [Worker-64: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:32:57,208 [Worker-64: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:32:57,208 [Worker-64: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:32:57,209 [Worker-64: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:32:57,209 [Worker-64: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:36:59,703 [Worker-44: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:36:59,704 [Worker-44: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:36:59,704 [Worker-44: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:36:59,705 [Worker-44: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:37:40,908 [Worker-68: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:37:40,908 [Worker-68: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:37:40,909 [Worker-68: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:37:40,909 [Worker-68: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:38:40,297 [Worker-71: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:38:40,297 [Worker-71: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:38:40,298 [Worker-71: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:38:40,298 [Worker-71: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:39:14,015 [Worker-44: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:39:14,016 [Worker-44: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:39:14,016 [Worker-44: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:39:14,016 [Worker-44: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:40:44,654 [Worker-73: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:40:44,654 [Worker-73: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:40:44,655 [Worker-73: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:40:44,655 [Worker-73: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:41:20,781 [Worker-70: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:41:20,781 [Worker-70: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:41:20,782 [Worker-70: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:41:20,783 [Worker-70: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:42:08,600 [Worker-44: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:42:08,600 [Worker-44: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:42:08,601 [Worker-44: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:42:08,601 [Worker-44: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:42:58,409 [Worker-74: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:42:58,409 [Worker-74: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources
+2019-02-21 20:42:58,410 [Worker-74: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:42:58,410 [Worker-74: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\test\resources
+2019-02-21 20:43:45,336 [Worker-70: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 20:43:45,336 [Worker-70: Launching Exercicio02 (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java\eclipse-workspace\teste\src\main\resources

@@ -1,8 +1,5 @@
 package Exercicios.teste;
 
-import Exercicios.Pessoa2;
-
-
 public class Pessoa {
 	String nome;
 	int idade;
@@ -15,7 +12,13 @@ public class Pessoa {
 		this.idade = idade;
 		this.altura = altura;
 	}
-		
+	
+	public void Excluido(String enome, int eidade, float ealtura) {
+		this.nome = enome;
+		this.idade = eidade;
+		this.altura = ealtura;
+	}
+	
 	public String getNome() {
 	return this.nome;
 	}
@@ -54,5 +57,11 @@ public class Pessoa {
 		System.out.println("imprimindo só o resultado da busca");
 		System.out.println(getNome() +" tem " + getIdade() + " anos, e tem " + getAltura()+" de altura");
 	}
+	
+	void excluido() {
+		System.out.println(getNome() +" tem " + getIdade() + " anos, e tem " + getAltura()+" de altura");
+	}
+
+	
 
 }
