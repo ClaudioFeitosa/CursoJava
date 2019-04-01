@@ -1,0 +1,13 @@
+comandos git
+
+para subir arquivos
+
+1 - $ git status  - > vejo o que tenho de novo
+2 - $ git add . -> relaciona os arquivos ao git
+3 - $ git status  - > vejo o que tenho de novo (não e necessario) - mas mostra em verde todo que estava em vermelho
+4 - $ git commit -m "descrição" -> empacota as modificações e assing o id do pacote hash
+5 - $ git status  - > vejo o que tenho de novo (não e necessario) - não deve mostrar nada
+6 - $ git log  - para verificar o commit novo com minha mensagem descritiva
+7 - $ git push origem master - > para enviar o pacote para o diretorio na web
+8 - $ git fetch - atualiza as referencias - para verificar se tem algo novo
+9 - $ git pull  - atualiza os arquivos 
