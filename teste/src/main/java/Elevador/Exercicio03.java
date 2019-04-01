@@ -7,33 +7,48 @@ import Exercicios.teste.Pessoa;
 public class Exercicio03 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		Elevador predio[] = new Elevador[10];
 		Scanner teclado = new Scanner(System.in);
+		int qtd, andar;
+		int chamarelevador = 0;
 		
-	
+		
 		System.out.println("informe a capacidade do elevador");
 		int capacidadde = Integer.parseInt(teclado.nextLine());
 		System.out.println("informe o numero de andares");
 		int andares = Integer.parseInt(teclado.nextLine());
 		andares = andares +1;
+		
+		Elevador novoelevador1[] = new Elevador[andares];
 				
 		Elevador novoelevador = new Elevador(capacidadde, andares);
 		
-		predio[0] = novoelevador;
-		
-		// chamar elevador
 		System.out.print("iniciando elevador");
-		predio[0]= novoelevador;
-		for (int i = 0; i< predio.length; i++) {
+		
+		System.out.println("Precione 1 para Chamar o elevador");
+		chamarelevador = Integer.parseInt(teclado.nextLine());
+
+		
+		if (chamarelevador == 1) {
 			
+			Elevador.inicializar();
 			
 		}
 		
+		System.out.println("Informe o andar ...");
+			andar = Integer.parseInt(teclado.nextLine());
+		System.out.println("Informe o qtd de pessoas ...");
+			qtd = Integer.parseInt(teclado.nextLine());
+			
+			for (int i = andar; i <= novoelevador.getAndarFinal();i++) {
+				for (int j = qtd; qtd<=novoelevador.getQtdmax();j++) {
+					System.out.println("subir");
+				} 
+					
+			}
+
 		
-	
-		
-teclado.close();
+			
+		teclado.close();
 	}
 
 }
