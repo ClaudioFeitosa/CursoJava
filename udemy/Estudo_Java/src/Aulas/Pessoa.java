@@ -1,6 +1,8 @@
 package Aulas;
-
+//Classe 
+//Atributos
 public class Pessoa {
+	//atributos da classe pessoa
 	String nome, email;
 	int ano_nascimento;
 	

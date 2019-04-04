@@ -26,6 +26,7 @@ public class Exercicio02 {
 		}
 		
 		System.out.println("------------------------ todos ------------------------");
+	
 		for(int i = 0; i <pessoas.length; i++) {
 				pessoas[i].imprimeTudo();
 			}
@@ -35,7 +36,7 @@ public class Exercicio02 {
 			for (int i = 0; i< pessoas.length; i++) {
 				if (pesquisa.equals(pessoas[i].getNome())) {
 					pessoas[i].resultadoDeBusca();
-					
+					pessoas[i].imprimeTudo();
 				}
 			}
 				
@@ -49,7 +50,8 @@ public class Exercicio02 {
 						
 						pessoas[j] = pessoas[j+1];
 					}
-				pessoas[i].excluido();
+			
+				pessoas[i].imprimeTudo();
 			}
 			
 			

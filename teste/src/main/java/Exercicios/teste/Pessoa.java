@@ -55,7 +55,7 @@ public class Pessoa {
 	
 	void resultadoDeBusca() {
 		System.out.println("imprimindo só o resultado da busca");
-		System.out.println(getNome() +" tem " + getIdade() + " anos, e tem " + getAltura()+" de altura");
+	//	System.out.println(getNome() +" tem " + getIdade() + " anos, e tem " + getAltura()+" de altura");
 	}
 	
 	void excluido() {

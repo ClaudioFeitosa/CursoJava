@@ -1,12 +1,20 @@
 package Aulas;
 // objetos são produtos / instancias da classe
+
+/* objetos são prudutos/instacias da classe
+ * 
+ */
 public class Programa22 {
 
 	public static void main(String[] args) {
 		/*declaração e instanciando o opjeto da classe produto
 		 * p1 é uma instacia do objeto 
 		 */
-		Produto p1 = new Produto();
+		
+		// esta é a instacia do objeto produto
+		Produto p1 = new Produto();// este é o construtor é um metodo que constroi a instacia do objeto
+		
+		
 		p1.nome = "Notebook";
 		p1.preco = 2.367f;
 		p1.desconto = 15.0f;

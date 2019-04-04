@@ -2,29 +2,42 @@ package Secao09Exerciciose2;
 
 import java.util.Scanner;
 
+import Secao09Exercicios.Pessoa;
+
+
 public class Agenda {
 
 	public static void main(String[] args) {
+		
+		Pessoa pessoas[] = new Pessoa[4];
 		Scanner teclado = new Scanner(System.in);
-		Pessoas agenda[] = new Pessoas[2];
+		String nome;
+		int idade;
+		float altura;
 		
-		for (int i = 0; i <agenda.length; i++) {
-			System.out.println("Digite o nome do contato");
-			agenda[i].nome = teclado.nextLine();
-			System.out.println("Digite a idade do contato");
-			agenda[i].idade = teclado.nextInt();
-			System.out.println("Digite a altura do contato");
-			agenda[i].altura = teclado.nextFloat();
-			
 		
+		System.out.println("digite os dados da pessoa");
+		
+		for (int i=0; i < pessoas.length; i++) {
+				System.out.println("informe o nome");
+				nome = teclado.nextLine();
+				System.out.println("informe a idade");
+				idade = Integer.parseInt(teclado.nextLine());
+				System.out.println("informe a altura");
+				altura = Float.parseFloat(teclado.nextLine());
+								
+				//novapessoa[i].novapessoa(nome, altura, idade);
+				Pessoa agenda = new Pessoa(nome,idade,altura);
+				pessoas[i] = agenda;
 		}
-		for (int i = 0; i <agenda.length; i++) {
-		System.out.println(agenda[i].nome);	
-		}
-		
-		
-		teclado.close();
 
+		teclado.close();
+		
+			for (int i=0; i <pessoas.length; i++) {
+				pessoas[i].imprimeTudo();
+				
+			}
+		}		
 	}
 
-}
+	
