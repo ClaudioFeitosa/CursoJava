@@ -11,15 +11,31 @@ public class Cadastro_pessoas {
 		this.altura = altura;	
 	}
 
-	public void armazenaAgenda(String nome, int idade, float altura) {
-		this.nome = nome;
-		this.idade = idade;
-		this.altura = altura;
-		}
 	
 	public void removePessoa(String nome) {
 		
 		}
+	
+	
+	public void buscaPessoa(int i) {
+		this.i = i;
+	
+		System.out.println(getNome() +" tem " + getIdade() + " anos, e tem " + getAltura()+" de altura");
+		
+	}
+	
+	void imprimeTudo() {
+	//this.i=i;
+		System.out.println(getNome() +" tem " + getIdade() + " anos, e tem " + getAltura()+" de altura");
+}
+	
+
+	void imprimePesquisa(int i) {
+		this.i = i;
+		System.out.println(getNome() +" tem " + getIdade() + " anos, e tem " + getAltura()+" de altura");
+	}
+
+
 	
 	public String getNome() {
 		return this.nome;
@@ -43,31 +59,7 @@ public class Cadastro_pessoas {
 		return this.altura;
 	}
 
-	public void imprime_contatos() {
-		System.out.println("nome do contato " + nome);
-	}
 
-
-	void imprimeTudo() {
-	//this.i=i;
-		System.out.println(getNome() +" tem " + getIdade() + " anos, e tem " + getAltura()+" de altura");
-}
-	
-//	void resultadoDeBusca(String pesquisa) {
-//		System.out.println(getNome() +" tem " + getIdade() + " anos, e tem " + getAltura()+" de altura");
-//	}
-
-	public void resultadoDeBusca(int i) {
-		this.i = i;
-		
-		System.out.println(getNome() +" tem " + getIdade() + " anos, e tem " + getAltura()+" de altura");
-		
-	}
-	
-	void imprimePesquisa(int i) {
-		this.i = i;
-		System.out.println(getNome() +" tem " + getIdade() + " anos, e tem " + getAltura()+" de altura");
-	}
 	
 }
 
