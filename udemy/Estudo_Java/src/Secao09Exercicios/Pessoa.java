@@ -50,5 +50,13 @@ public Pessoa(String nome, int idade, float altura) {
 		System.out.println(getNome() +" tem " + getIdade() + " anos, e tem " + getAltura()+" de altura");
 	}
 
+
+	public void resultadoDeBusca() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+	
 	
 }

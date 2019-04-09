@@ -1,0 +1,51 @@
+package Secao04Exercicios;
+
+import java.util.Scanner;
+
+public class e10 {
+
+	public static void main(String[] args) {
+		Scanner teclado = new Scanner(System.in);
+		double altura, pesoIdeal;
+		double homem = 72.7f;
+		double mulher = 62.1f;
+		String sexo;
+		
+		System.out.println("informe o sexo F / M ");
+		sexo = teclado.nextLine();
+		
+		System.out.println("informe a sua altura: ");
+		altura = teclado.nextFloat();
+		
+		switch (sexo) {
+		
+		case "f":
+			pesoIdeal =  (mulher * altura) - 44.7;
+			System.out.println("seu peso ideal é :" + pesoIdeal);
+			break;
+		case "F":
+			pesoIdeal =  (mulher * altura) - 44.7;
+			System.out.println("seu peso ideal é :" + pesoIdeal);
+						
+			break;
+
+		case "h":
+			pesoIdeal =  (homem * altura) - 58;
+			System.out.println("seu peso ideal é :" + pesoIdeal);			
+			break;
+	
+		case "H":
+			pesoIdeal =  (homem * altura) - 58;
+			System.out.println("seu peso ideal é :" + pesoIdeal);			
+			break;
+	
+		default:
+			break;
+		}
+
+	teclado.close();		
+			
+		
+	}
+
+}

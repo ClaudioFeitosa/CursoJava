@@ -1,0 +1,19 @@
+package Secao04Exercicios;
+
+import java.util.Scanner;
+
+public class e11 {
+
+	public static void main(String[] args) {
+		Scanner teclado = new Scanner(System.in);
+		int numero = 0;
+		
+		while (numero < 0) {
+			System.out.println("digite um numero mairo que zero");
+			numero = teclado.nextInt();
+			
+		}
+		teclado.close();
+	}
+
+}

@@ -1,0 +1,47 @@
+package Elevador;
+
+import java.util.Scanner;
+
+import Exercicios.teste.Pessoa;
+
+public class Exercicio03 {
+
+	public static void main(String[] args) {
+		Scanner teclado = new Scanner(System.in);
+		int qtd, andar;
+		int chamarelevador = 0;
+	
+		
+		System.out.println("informe a capacidade do elevador");
+		int capacidadde = Integer.parseInt(teclado.nextLine());
+		System.out.println("informe o numero de andares");
+		int andares = Integer.parseInt(teclado.nextLine());
+		andares = andares +1;
+				
+		Elevador novoelevador = new Elevador(capacidadde, andares);
+		
+		System.out.print("iniciando elevador");
+		
+		System.out.println("Precione 1 para Chamar o elevador");
+		chamarelevador = Integer.parseInt(teclado.nextLine());
+
+		
+		if (chamarelevador == 1) {
+			novoelevador.inicializar();
+		}
+			
+		System.out.println("Informe o andar ...");
+			andar = Integer.parseInt(teclado.nextLine());
+			
+			do {
+				if (andar < 0) {
+					if (andar >10) {
+						System.out.println("andar invalido");
+					}
+				}
+			}while (andar <0);
+			
+		teclado.close();
+	}
+
+}

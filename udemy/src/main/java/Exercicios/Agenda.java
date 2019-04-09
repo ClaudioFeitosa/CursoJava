@@ -27,7 +27,7 @@ public class Agenda {
 	
 	void imprimeLista(int i) {
 		this.i= i;
-		System.out.println("A posiÃ§Ã£o do aluno Ã© [" + i + "]" +" " + 
+		System.out.println("A posição do aluno é [" + i + "]" +" " + 
 		getNome() +" tem " + getIdade() + " anos, e tem " + getAltura()+" de altura");
 	}
 	
