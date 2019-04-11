@@ -59,8 +59,5 @@ public class Cadastro_pessoas {
 		return this.altura;
 	}
 
-
-	
 }
-
 

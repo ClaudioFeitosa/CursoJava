@@ -1,12 +1,18 @@
 package Secao09Exercicio03;
 
 public class ElevadorClasse {
-	int capacidade, andares, qtd, andar;
+	int capacidade, andares, qtd, andar,terreo;
 	
-	public void Inicializa (int capacidade, int andares) {
+	public ElevadorClasse (int capacidade, int andares, int terreo) {
 		this.capacidade = capacidade;
 		this.andares = andares;
-		}
+		this.terreo =terreo;
+	}
+	
+	
+	void imprime() {
+		System.out.println("o elevador esta ativo");
+	}
 	
 	public void Entra(int qtd) {
 		this.qtd=qtd;
