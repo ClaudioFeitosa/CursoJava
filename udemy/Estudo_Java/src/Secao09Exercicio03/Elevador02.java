@@ -2,7 +2,7 @@ package Secao09Exercicio03;
 
 import java.util.Scanner;
 
-public class Elevador01 {
+public class Elevador02 {
 	static Scanner teclado = new Scanner(System.in);
 	
 	static int capacidade, andares,andar, andarAtual, terreo, qtd, qtdAtual;
@@ -15,63 +15,50 @@ public class Elevador01 {
 		System.out.println("o numero de andares");
 		andares = teclado.nextInt();
 		terreo =0;
-		qtdAtual=0;
+		qtdAtual=5;
 		
 		ElevadorClasse elevador = new ElevadorClasse (capacidade,andares,terreo);
 
-		// transformar cada validação em uma função 
-		// validar o andar
-		// validar as pessoas 
-		
 		while (fim ==1) {
-			
+
 			System.out.println("Digite '1' para subir ou '0' p/ sair");
 			chamar = teclado.nextInt();
 			
 			if (chamar ==0) {
+			
 				System.out.println("Elevador finalizado");
-				//System.exit(1);
-			break;
+				System.exit(1);
 			
 			}else if (chamar ==1 ) {
 				elevador.informe_andar();
 					andar = teclado.nextInt();
-					
-					// este if colocar dentro de um método que devolve um booleado (true o false)
-					
-					if (andar > elevador.andares || andar <0)  { // não deve acessar diretamente o atributo (sempre usar o metdod exe elevador.getAndares()
+					if (andar > elevador.andares)
 						System.out.println("andar invalido");
+					elevador.informe_qtd_pessoas();
+					qtd = teclado.nextInt();
+					qtd = qtd+qtdAtual;
 					
-					} else 
-						//andar = andar;
-						//System.out.println(andar);
-						while (true) {
-						
-							System.out.println("digite a quantidade de pessoas");
-							qtd = teclado.nextInt();
-							qtd = qtd +qtdAtual;
-							
-							if (qtd <= elevador.capacidade) {
-								elevador.subir(andar, qtd);
-								break;
-								
-							}else {
-								System.out.println("qtd execedente");
-							}
+		  		elevador.subir(andar, qtd);
+		  		elevador.seuAndar();
+				
 
-						}
-						
-						
-					}
+			}
 			
-			
+						
 		}
 		
 		
 		
+		if (qtd >capacidade ) {
+			System.out.println("capacidade exedida");
+			System.exit(1);
+			
+		}
+		
+	
 		
 		
-		
-		
+
+
 	}
 }

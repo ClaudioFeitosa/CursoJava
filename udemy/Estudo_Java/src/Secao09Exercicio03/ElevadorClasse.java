@@ -10,8 +10,22 @@ public class ElevadorClasse {
 	}
 	
 	
-	void imprime() {
-		System.out.println("o elevador esta ativo");
+	void informe_andar() {
+		System.out.println("Informe o andar");
+	}
+	
+	void informe_qtd_pessoas() {
+		System.out.println("Informe o numero de pessoas");
+	}
+
+	void subir(int andar, int i) {
+		this.andar=andar;
+		this.qtd=qtd;
+		System.out.println("subindo...");
+	}
+	
+	void seuAndar() {
+		System.out.println("voce chegou ao seu andar");
 	}
 	
 	public void Entra(int qtd) {
