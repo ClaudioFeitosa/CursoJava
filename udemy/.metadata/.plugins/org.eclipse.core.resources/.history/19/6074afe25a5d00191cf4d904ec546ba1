@@ -1,0 +1,27 @@
+package Secao09Exercicio03V2;
+
+import java.util.Scanner;
+
+public class Elevador {
+	static Scanner teclado = new Scanner(System.in);
+	public static void main(String[] args) {
+		
+		int capacidade=0, andares=0, terreo=0,qtdAtual=0;
+			
+		
+		System.out.println("informe a capacidade do elavador");
+		capacidade = teclado.nextInt();
+		System.out.println("o numero de andares");
+		andares = teclado.nextInt();
+
+		ElevadorClasse e1 = new ElevadorClasse(capacidade, andares, terreo);
+		e1.imprimedadosPredio();
+		e1.chamarElevador();
+		
+		
+		
+	}
+	
+	
+ 
+}
