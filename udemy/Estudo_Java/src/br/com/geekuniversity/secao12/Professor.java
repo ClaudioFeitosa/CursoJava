@@ -16,4 +16,8 @@ public class Professor extends Pessoa {
 	public void setMatricula(String matricula) {
 		this.matricula=matricula;
 	}
+	
+	public String toString() {
+		return super.toString() + "\nmatricula: " + this.matricula;
+	}
 }

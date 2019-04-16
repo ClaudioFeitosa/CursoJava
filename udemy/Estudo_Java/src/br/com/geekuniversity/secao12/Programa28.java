@@ -8,11 +8,20 @@ public class Programa28 {
 		// instanciando a o objeto Pessoa 
 		
 		Pessoa p1 = new Pessoa("Claudio", 1977);
-		Aluno A1 = new Aluno("Manu", 2010, "RA12345");
-		Professor Prof1 = new Professor("Claudio", 1977, "MAt12345");
-				
-		System.out.println("Aluno: " + A1.getNome() + " Ano Nasc " + A1.getano_nasc() + " RA: " + A1.getRa());
-		System.out.println("Prof: " + Prof1.getNome() + " Ano Nasc " + Prof1.getano_nasc() + " RA: " + Prof1.getMatricula());
+		Aluno a1 = new Aluno("Manu", 2010, "RA12345");
+		Professor prof1 = new Professor("Claudio", 1977, "MAt12345");
+		
+		System.out.println("Pessoa " + p1.getNome());
+		System.out.println("Aluno: " + a1.getNome() + " Ano Nasc " + a1.getano_nasc() + " RA: " + a1.getRa());
+		System.out.println("Prof: " + prof1.getNome() + " Ano Nasc " + prof1.getano_nasc() + " RA: " + prof1.getMatricula());
+		
+		System.out.println("--------------------------------------------------------------------------------------------");
+		
+		System.out.println(p1);
+		System.out.println("\n");
+		System.out.println(a1);
+		System.out.println("\n");
+		System.out.println(prof1);
 		
 		
 	}

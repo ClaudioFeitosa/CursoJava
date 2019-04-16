@@ -31,6 +31,10 @@ public class Aluno extends Pessoa {
 	public void setRa(String ra) {
 		this.ra=ra;
 	}
+	
+	public String toString() {
+		return super.toString() + "\nRA: " + this.ra;
+	}
 
 }
 
