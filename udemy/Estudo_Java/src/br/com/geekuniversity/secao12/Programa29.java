@@ -1,0 +1,22 @@
+package br.com.geekuniversity.secao12;
+/*SOBRECARGA DE MÉTODO
+ * OVERLOAD
+ * OCORRE quando sobrescrevendo um método na mesma classe de declaração
+ */
+
+
+public class Programa29 {
+
+	public static void main(String[] args) {
+
+		Pessoa p2 = new Pessoa();
+			
+				p2.mensagem();
+				p2.mensagem("esta e a mensagem do parametro");
+		
+		
+		
+
+	}
+
+}

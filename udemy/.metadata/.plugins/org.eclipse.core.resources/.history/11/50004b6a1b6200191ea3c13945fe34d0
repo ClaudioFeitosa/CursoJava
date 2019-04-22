@@ -1,0 +1,18 @@
+package secao12Exercicios;
+
+public class Ex01 {
+
+	public static void main(String[] args) {
+
+		Pessoaex01 p2 = new Pessoaex01("Claudio", "Av. Queiroz filho", '123456');
+		 
+		System.out.println(p2.getNome());
+		
+		
+		p2.imprime();
+		
+		System.out.println(p2);
+	
+	}
+
+}
