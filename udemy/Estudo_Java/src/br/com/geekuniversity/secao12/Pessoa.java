@@ -46,8 +46,27 @@ public class Pessoa {
 
 	
 	// Este metodo mostra o que tem no endereço de memoria
+/*<<<<<<< HEAD
 	public String toString() {
 		return "Nome: " + this.nome + " \nAno Nascimento: " + this.ano_nasc;
 	}
+
+=======
+*/
+	// este tmb é UM OVERRIDING / SOBRESCRITA DE MÉTODO
+	public String toString() {
+		return "Nome: " + this.nome + " \nAno Nascimento: " + this.ano_nasc;
+	}
+	
+	// exemplo de orverload de metodos
+	
+	public void mensagem() {
+		System.out.println("esta e a mensagem orginal");
+	}
+	
+	public void mensagem(String msg) {
+		System.out.println(msg);
+	}
+//>>>>>>> 9cf859dcf0361da64591ecf0a0e7673ee05f59f8
 
 }

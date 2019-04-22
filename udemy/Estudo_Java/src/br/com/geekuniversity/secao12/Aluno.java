@@ -32,9 +32,30 @@ public class Aluno extends Pessoa {
 		this.ra=ra;
 	}
 	
+/*<<<<<<< HEAD
 	public String toString() {
 		return super.toString() + "\nRA: " + this.ra;
 	}
 
+//}
+ * (non-Javadoc)
+ * @see br.com.geekuniversity.secao12.Pessoa#toString()
+ */
+
+//=======
+	// este tmb é UM OVERRIDING / SOBRESCRITA DE MÉTODO
+
+	public String toString() {
+		return super.toString() + "\nRA: " + this.ra;
+	}
+	
+	
+	// este tmb é UM OVERRIDING / SOBRESCRITA DE MÉTODO, veja a setinha verde
+	public String getNome() {
+		return "Aluno: \n" + super.getNome();
+	}
+
 }
 
+
+//>>>>>>> 9cf859dcf0361da64591ecf0a0e7673ee05f59f8
