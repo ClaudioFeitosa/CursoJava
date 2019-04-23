@@ -31,7 +31,7 @@ public class Aluno extends Pessoa {
 		this.ra=ra;
 	}
 	
-// POLIMORFISMO
+
 	public String toString() {
 		return super.toString() + "\nRA: " + this.ra;
 	}
