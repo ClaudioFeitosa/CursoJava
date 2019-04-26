@@ -2,8 +2,6 @@ package br.com.geekuniversity.secao12;
 
 public class Programa28 {
 
-	// HERANÇA
-	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
@@ -19,21 +17,12 @@ public class Programa28 {
 		
 		System.out.println("--------------------------------------------------------------------------------------------");
 		
-		// USANDO O POLIMORFISMO
 		System.out.println(p1);
 		System.out.println("\n");
 		System.out.println(a1);
 		System.out.println("\n");
 		System.out.println(prof1);
 		
-		System.out.println("\n");
-		// usando o to String para imprimir apenas o nnome
-		
-		System.out.println(p1.getNome());
-		System.out.println("\n");
-		System.out.println(a1.getNome());
-		System.out.println("\n");
-		System.out.println(prof1.getNome());
 		
 	}
 

@@ -9,9 +9,9 @@ public class Programa28 {
 
 		// instanciando a o objeto Pessoa 
 		
-		Pessoa p1 = new Pessoa("Claudio", 1977);
-		Aluno a1 = new Aluno("Manu", 2010, "RA12345");
-		Professor prof1 = new Professor("Claudio", 1977, "MAt12345");
+		Pessoa p1 = new Pessoa("Pessoa Claudio", 1977);
+		Aluno a1 = new Aluno("Aluno Manu", 2010, "RA12345");
+		Professor prof1 = new Professor("prof Claudio", 1977, "MAt12345");
 		
 		System.out.println("Pessoa " + p1.getNome());
 		System.out.println("Aluno: " + a1.getNome() + " Ano Nasc " + a1.getano_nasc() + " RA: " + a1.getRa());

@@ -30,9 +30,7 @@ public class Programa28 {
 		// usando o to String para imprimir apenas o nnome
 		
 		System.out.println(p1.getNome());
-		System.out.println("\n");
 		System.out.println(a1.getNome());
-		System.out.println("\n");
 		System.out.println(prof1.getNome());
 		
 	}
