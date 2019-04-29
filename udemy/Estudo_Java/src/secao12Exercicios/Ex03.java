@@ -7,6 +7,7 @@ public class Ex03 {
 		Quadrado q = new Quadrado(5);
 		q.imprimeArea();
 		q.imprimePerimetro();
+		
 	}
 
 }

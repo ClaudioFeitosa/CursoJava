@@ -1,0 +1,15 @@
+package secao12Exercicios;
+
+public class ex09_moto {
+	
+	public static void main(String[] args) {
+
+	Moto m1 = new Moto("Honda", "Lead", "Vermelha",5);
+	
+	m1.imprimeMoto();
+	
+	
+	
+	}
+
+}

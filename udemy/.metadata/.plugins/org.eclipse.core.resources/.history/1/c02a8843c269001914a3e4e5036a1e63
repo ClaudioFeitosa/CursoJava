@@ -1,0 +1,12 @@
+package secao12Exercicios;
+
+public class ex09_moto {
+	
+	Moto moto = new Moto("Honda", "Lead", "Vermelha",5);
+	
+	
+	
+	
+
+
+}
