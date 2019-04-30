@@ -1,20 +1,24 @@
 package secao12Exercicios;
 
 public class Moto {
+	//
 	private String marca;
 	private String modelo;
 	private String cor;
-	private int marcha =5;
+	private int marcha;
+	private boolean ligarMoto = false;
 	
-	
-	public Moto(String marca, String modelo, String cor) {
+	//metodo construtor exercicio 10
+	public Moto(String marca, String modelo, String cor, int marcha, boolean ligarMoto) {
 		this.marca = marca;
 		this.modelo =  modelo;
 		this.cor = cor;
 		this.marcha = marcha;
+		this.ligarMoto = ligarMoto;
+		
 		
 	}
-	
+		
 	public String getMarca() {
 		return this.marca;
 	}
@@ -46,31 +50,67 @@ public class Moto {
 	public void setMarcha(int marcha) {
 		this.marcha=marcha;
 	}
-
-	public void imprimeMoto() {
-		System.out.println("Dados da moto" + "\nMarca: " + getMarca() + "\nModelo: " + getModelo()+ 
-				"\nCor: " +getCor() + "\nMarcha: " + getMarcha() + " \nMoto ligada:" +motorLigado(false));
+	
+	public boolean getLigarMoto() {
+		return this.ligarMoto = ligarMoto;
 	}
 	
-	public int marchaAcima() {
-		this.marcha = marcha+1;
-		if (marcha > 5) {
-			marcha = 5;
-		}
-		return marcha;
-	}
-	
-	public int marchaAbaixo() {
-		this.marcha = marcha-1;
-		if (marcha <0) {
-			marcha = 0;
-		}
-		return marcha;
-	}
-	
-	public boolean motorLigado(boolean ligado) {
-		return true;
+	public void setLigarMoto(boolean LigarMoto) {
+		this.ligarMoto = ligarMoto;
 		
 	}
+
+//	public void imprimeMoto() {
+//		System.out.println("Dados da moto" + "\nMarca: " + getMarca() + "\nModelo: " + getModelo()+ 
+//				"\nCor: " +getCor() + "\nMarcha: " + getMarcha() + " \nMoto ligada:" + getLigarMoto());
+//	}
+	
+	public String toString() {
+		return "Dados da moto: " + "\nMarca: " + getMarca() + "\nModelo: " 
+				+ getModelo()+"\nCor: " +getCor() + "\nMarchaAtual: " + getMarcha() + "\nmoto ligada: "+getLigarMoto() ;
+	
+	}
+	// Exercicio 11
+	
+	
+	
+	public int marchaAcima() {
+		if (this.marcha < maiorMarcha() ) {
+			this.marcha = (marcha) +1;
+		}
+			
+		return this.marcha;
+	}
+
+	// Exercicio 11
+	public int marchaAbaixo() {
+		if (this.marcha > menorMarcha() ) {
+			this.marcha = (this.marcha) -1;
+		}
+			
+		return this.marcha;
+	}
+
+	// Exercico13
+	public int menorMarcha() {
+		int menormarcha =0;
+		return menormarcha;
+	}
+	
+	public int maiorMarcha() {
+		int maiormarcha = 5;
+		return maiormarcha;
+	}
+	// exercicio 14
+	public boolean ligarMoto() {
+		return ligarMoto = true;
+	}
+	
+	public boolean desligarMoto() {
+		return ligarMoto = false;
+	}
+
 }
+
+
 

@@ -19,7 +19,7 @@ public class Programa28 {
 		
 		System.out.println("--------------------------------------------------------------------------------------------");
 		
-		// USANDO O POLIMORFISMO
+		System.out.println("USANDO O POLIMORFISMO");// USANDO O POLIMORFISMO
 		System.out.println(p1);
 		System.out.println("\n");
 		System.out.println(a1);
