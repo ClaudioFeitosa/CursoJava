@@ -33,7 +33,7 @@ public class Eletrodomestico {
 		this.estadoAtual=estadoAtual;
 	}
 		
-	// metodos liga e desliga
+	// metodos liga e desliga EX19
 	public String desliga() {
 		this.ligado=false;
 		//defineEstado();
