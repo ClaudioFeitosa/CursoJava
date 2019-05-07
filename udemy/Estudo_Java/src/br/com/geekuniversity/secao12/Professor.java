@@ -27,5 +27,11 @@ public class Professor extends Pessoa {
 		return "Professor: \n" + super.getNome();
 	}
 
+	@Override
+	public void outra_msg(String texto) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
 

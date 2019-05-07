@@ -10,10 +10,10 @@ public class Programa29 {
 
 	public static void main(String[] args) {
 
-		Pessoa p2 = new Pessoa();
+//		Pessoa p2 = new Pessoa();
 			
-				p2.mensagem();
-				p2.mensagem("esta e a mensagem do parametro");
+			//	p2.mensagem();
+				//p2.mensagem("esta e a mensagem do parametro");
 		
 		
 		

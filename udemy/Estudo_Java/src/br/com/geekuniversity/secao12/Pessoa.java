@@ -5,9 +5,9 @@ package br.com.geekuniversity.secao12;
  * CLASSE PAI
  * SUPER CLASSE
  * CLASSE GENERICA
- * 
- */
-public class Pessoa {
+ *  05/07 agora como classe abstrata
+ */ 
+public abstract class Pessoa {
 	
 	private String nome;
 	private int ano_nasc;
@@ -67,6 +67,9 @@ public class Pessoa {
 	public void mensagem(String msg) {
 		System.out.println(msg);
 	}
-//>>>>>>> 9cf859dcf0361da64591ecf0a0e7673ee05f59f8
+	
+	// declaração do metodo abstract
+	public abstract void outra_msg(String texto);
+
 
 }
