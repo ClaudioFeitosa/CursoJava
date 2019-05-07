@@ -11,6 +11,7 @@ public class Computador extends Equipamento {
 		
 	}
 // testando o ajuste
+	/// novo teste
 	public String getModelo() {
 		return this.modelo = modelo;
 	}
