@@ -10,7 +10,7 @@ public class Computador extends Equipamento {
 		this.memoria = memoria;
 		
 	}
-
+// testando o ajuste
 	public String getModelo() {
 		return this.modelo = modelo;
 	}
