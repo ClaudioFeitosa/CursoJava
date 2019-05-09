@@ -26,12 +26,14 @@ public class Conta {
 		}else if (valor <= (this.saldo + this.limite)) {
 			// calculando o valor excedente]=
 			// 100 - 200 -> -100
+			
 			float val_ret = this.saldo -valor;
 			if (val_ret < 0);
 			this.saldo =0;
+			
 			val_ret = (this.limite + val_ret);
 			this.limite = val_ret;
-			
+			System.out.println("Saque realizado com sucesso");
 		}else {
 			System.out.println("saldo insuficente");
 		}
