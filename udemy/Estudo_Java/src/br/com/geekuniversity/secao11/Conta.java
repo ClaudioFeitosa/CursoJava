@@ -19,7 +19,10 @@ public class Conta {
 		this.limite=limite;
 		this.cliente=cliente;
 	}
-// metodos
+/**
+ *  metodos sacar
+ * @param valor
+ */
 	public void sacar(float valor) {
 		if(valor <= this.saldo) {
 			this.saldo = this.saldo - valor;
@@ -39,6 +42,11 @@ public class Conta {
 		}
 		
 	}
+	/**
+	 * Mewtodo depoisitar
+	 * @param valor a ser deposititado
+	 */
+	
 	public void depositar(float valor) {
 		this.saldo = this.saldo + valor;
 	}

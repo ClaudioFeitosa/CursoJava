@@ -15,6 +15,50 @@
 		<item value="1" key="updateSimilarElementsMatchStrategy"/>
 		<item value="false" key="updateTextualMatches"/>
 	</section>
+	<section name="javadoc">
+		<item value="1212" key="vmparam"/>
+		<item value="public" key="access"/>
+		<item value="false" key="noindex"/>
+		<item value="C:\Java\eclipse-workspace\CursoJava\udemy\Estudo_Java\javadoc.xml" key="antpath"/>
+		<item value="false" key="nodeprecatedlist"/>
+		<item value="true" key="use"/>
+		<item value="true" key="author"/>
+		<item value="false" key="nodeprecated"/>
+		<item value="false" key="nonavbar"/>
+		<item value="" key="docletpath"/>
+		<item value="C:\Java\eclipse-workspace\CursoJava\udemy\Estudo_Java\.project" key="javadoc_command_history"/>
+		<item value="1.8" key="source"/>
+		<item value="true" key="version"/>
+		<item value="doc" key="doctitle"/>
+		<item value="" key="docletname"/>
+		<item value="true" key="splitindex"/>
+		<item value="true" key="fromStandard"/>
+		<item value="false" key="notree"/>
+		<item value="C:\Java\eclipse-workspace\CursoJava\udemy\Estudo_Java\doc" key="destdir"/>
+		<item value="false" key="openinbrowser"/>
+		<section name="projects">
+			<section name="Estudo_Java">
+				<item value="C:\Java\eclipse-workspace\CursoJava\udemy\Estudo_Java\javadoc.xml" key="antpath"/>
+				<item value="C:\Java\eclipse-workspace\CursoJava\udemy\Estudo_Java\doc" key="destdir"/>
+				<item value="file:/C:/Java/eclipse-workspace/CursoJava/udemy/Estudo_Java/doc/;https://docs.oracle.com/javase/8/docs/api/;http://docs.oracle.com/javase/8/javafx/api/" key="href"/>
+			</section>
+			<section name="teste01 (1)">
+				<item value="C:\Java\eclipse-workspace\CursoJava\udemy\src\main\java\com\teste\udemy\teste01 (1)\javadoc.xml" key="antpath"/>
+				<item value="C:\Java\eclipse-workspace\CursoJava\udemy\src\main\java\com\teste\udemy\teste01 (1)\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="src">
+				<item value="C:\Java\eclipse-workspace\CursoJava\udemy\src\javadoc.xml" key="antpath"/>
+				<item value="C:\Java\eclipse-workspace\CursoJava\udemy\src\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="udemy">
+				<item value="C:\Java\eclipse-workspace\CursoJava\udemy\javadoc.xml" key="antpath"/>
+				<item value="C:\Java\eclipse-workspace\CursoJava\udemy\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+		</section>
+	</section>
 	<section name="JavaBuildConfigurationBlock">
 		<item value="false" key="expanded2"/>
 		<item value="false" key="expanded1"/>
@@ -38,6 +82,13 @@
 	</section>
 	<section name="NewPackageWizardPage">
 		<item value="true" key="create_package_info_java"/>
+	</section>
+	<section name="JavadocWizardDialog">
+		<item value="616" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="567" key="DIALOG_HEIGHT"/>
+		<item value="660" key="DIALOG_X_ORIGIN"/>
+		<item value="150" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="completion_proposal_size">
 	</section>

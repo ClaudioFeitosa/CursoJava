@@ -2144,3 +2144,5 @@ org.eclipse.core.runtime.CoreException: Launch configuration VetorReal reference
 	at org.eclipse.egit.ui.Activator$ResourceRefreshJob.run(Activator.java:598) [org.eclipse.egit.ui_5.2.0.201812061821-r.jar:na]
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
 2019-05-08 12:25:43,618 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-08 19:36:40,820 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-09 23:28:54,127 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
