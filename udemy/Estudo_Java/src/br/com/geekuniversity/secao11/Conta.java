@@ -56,4 +56,16 @@ public class Conta {
 		
 	}
 	
+	
+	@Override
+	public String toString() {
+		return "O saldo da conta é:" + this.getSaldo();
+	}
+	
+	@Override
+	public boolean equals(Object obj) {;
+		Conta verificar = (Conta) obj; // fazendo um cast da conta onde o (Object obj) é o meu c2 la do programa 39
+		return verificar.getSaldo() == this.getSaldo();
+	}
+
 }

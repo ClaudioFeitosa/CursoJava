@@ -21,7 +21,7 @@ public class Cliente {
 		this.nome = nome;
 		this.endereço = endereço;
 		
-		this.dizer_oi();
+		//this.dizer_oi();
 	}
 	
 	// metodo dizer oi
@@ -29,6 +29,11 @@ public class Cliente {
 	// vamos usar ele junto com o construtor Cliente acima
 	private void dizer_oi() {
 		System.out.println(this.nome + " esta dizendo oi... ");
+	}
+	
+	@SuppressWarnings("unused")
+	private void Cliente01() {
+		System.out.println(getNome() + getEndereco() );
 	}
 		
 	public String getNome() {

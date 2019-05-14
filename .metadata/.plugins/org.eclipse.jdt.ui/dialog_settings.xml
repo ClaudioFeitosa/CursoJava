@@ -35,7 +35,7 @@
 		<item value="true" key="fromStandard"/>
 		<item value="false" key="notree"/>
 		<item value="C:\Java\eclipse-workspace\CursoJava\udemy\Estudo_Java\doc" key="destdir"/>
-		<item value="false" key="openinbrowser"/>
+		<item value="true" key="openinbrowser"/>
 		<section name="projects">
 			<section name="Estudo_Java">
 				<item value="C:\Java\eclipse-workspace\CursoJava\udemy\Estudo_Java\javadoc.xml" key="antpath"/>
