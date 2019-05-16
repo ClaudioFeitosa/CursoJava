@@ -63,9 +63,12 @@ public class Conta {
 	}
 	
 	@Override
-	public boolean equals(Object obj) {;
+	public boolean equals(Object obj) {
+		if(!(obj instanceof Conta)) {
+			return false;
+		}else {
 		Conta verificar = (Conta) obj; // fazendo um cast da conta onde o (Object obj) é o meu c2 la do programa 39
 		return verificar.getSaldo() == this.getSaldo();
+		}
 	}
-
 }
