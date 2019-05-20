@@ -17,9 +17,8 @@ public class Programa47 {
 		
 		for(Cliente cliente : clientes) {
 			System.out.println(cliente);
-			/// atualizar
-			//22222
-			//4444
+			/// pasta Estudo java
+			// teste
 		}
 
 	}
