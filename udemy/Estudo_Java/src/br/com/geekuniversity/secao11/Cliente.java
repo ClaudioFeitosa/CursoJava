@@ -44,6 +44,10 @@ public class Cliente {
 public String getEndereco() {
 	return this.endereço;
 }
-
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return this.getNome();
+	}
 
 }
