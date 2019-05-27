@@ -46,10 +46,19 @@ public class Conta {
 	 * Mewtodo depoisitar
 	 * @param valor a ser deposititado
 	 */
+	// forma 1
+//	public void depositar1(float valor) {
+//		synchronized (this) {
+//			this.saldo = this.saldo + valor;
+//		}
+//	}
 	
-	public void depositar(float valor) {
+	// forma 2
+	
+	public synchronized void depositar(float valor) {
 		this.saldo = this.saldo + valor;
 	}
+	
 	
 	public float getSaldo() {
 		return this.saldo+ this.limite;
@@ -59,7 +68,7 @@ public class Conta {
 	
 	@Override
 	public String toString() {
-		return "O saldo da conta é:" + this.getSaldo();
+		return "O saldo da conta é: " + this.getSaldo();
 	}
 	
 	@Override

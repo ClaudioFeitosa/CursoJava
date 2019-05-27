@@ -11,15 +11,17 @@ package br.com.geekuniversity.secao11;
  * PUBLIC - VISUVEL PARA O PROJETO
  */ 
 
-public class Cliente {
+public class Cliente implements Comparable {
+	private int idade;
 	private String nome;
-	private String endereço;
+	private String endereco;
 	
 	
 	//construtor
-	public Cliente(String nome, String endereço) {
+	public Cliente(int idade, String nome, String endereço) {
+		this.idade = idade;
 		this.nome = nome;
-		this.endereço = endereço;
+		this.endereco = endereco;
 		
 		//this.dizer_oi();
 	}
@@ -35,19 +37,53 @@ public class Cliente {
 	private void Cliente01() {
 		System.out.println(getNome() + getEndereco() );
 	}
-		
+
+	
+	public int getIdade() {
+		return this.idade;
+	}
+	
+	public void setIdade(int idade ) {
+		this.idade = idade;
+	}
+
+	
 	public String getNome() {
 		return this.nome;
 	}
 	
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
 	
-public String getEndereco() {
-	return this.endereço;
-}
+	
+	public String getEndereco() {
+		return this.endereco;
+	}
+	
+	public void setEndereço(String endereco) {
+		this.endereco =endereco;
+	}
+
+
+	
+
 	@Override
 	public String toString() {
 		// TODO Auto-generated method stub
 		return this.getNome();
+	}
+
+	@Override // comparable
+	public int compareTo(Object outro) {
+		Cliente aux =(Cliente)outro;
+		
+		if (this.idade < aux.idade) {
+			return -1;
+		}else if (this.idade > aux.idade) {
+			return 1;
+		}else
+			return 0;
 	}
 
 }

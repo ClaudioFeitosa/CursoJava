@@ -23,6 +23,8 @@ import java.util.Collections;
 public class Programa45 {
 
 	public static void main(String[] args) {
+		//ArrayList nomes = new ArrayList(); -> sem especificar o tipo de dados
+		
 		ArrayList <String> nomes = new ArrayList<String>();
 		
 		nomes.add("Maria");
